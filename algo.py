@@ -95,7 +95,7 @@ def main():
 
     print(f"\n{name}")
     print("Sequence:", " -> ".join(map(str, sequence)))
-    print("Total head movement:", movement)
+    print("Total cylinder:", movement)
 
 
 if __name__ == "__main__":
