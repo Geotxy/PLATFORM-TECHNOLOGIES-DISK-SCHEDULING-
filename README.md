@@ -66,4 +66,4 @@ Users should be able to:
 
 ## Conclusion
 
-The platform provides an interactive way to understand disk scheduling algorithms through Python simulations. It helps users visualize disk head movements, analyze results, and compare the performance of FCFS, SSTF, and SCAN.
+The platform provides an interactive way to understand disk scheduling algorithms through Python simulations. It helps users visualize disk head movements, analyze results, and compare the performance of FCFS, SSTF, and SCAN. 
